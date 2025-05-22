@@ -28,3 +28,9 @@ Yeni özellikler eklemek veya hataları bildirmek için pull request gönderebil
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakınız.
+
+## Ekran Görüntüleri
+
+![1](https://github.com/user-attachments/assets/a37a2771-56c7-4126-ae13-871d1c34f01e)
+
+![6](https://github.com/user-attachments/assets/de29c086-794b-4607-a73c-76fe85d36341)
